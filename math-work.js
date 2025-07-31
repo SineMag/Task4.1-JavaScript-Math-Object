@@ -14,5 +14,5 @@ const num3 = -8.5;
 num3 = Math.round(num3);
 
 console.log(num1);
-//console.log(num2);
-//console.log(num3);
+console.log(num2);
+console.log(num3);
